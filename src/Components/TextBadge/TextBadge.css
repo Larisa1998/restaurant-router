@@ -1,0 +1,11 @@
+.text-badge {
+    font-size: 24px;
+    background-color: #E9F3AA;
+    border-radius: 100%;
+    padding:50px;
+    max-width: fit-content;
+}
+
+.text-badge p {
+    margin: 0;
+}

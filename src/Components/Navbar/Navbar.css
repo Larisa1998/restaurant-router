@@ -1,0 +1,17 @@
+nav {
+    background-color: #EB574D;
+    color: #FFF;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+nav h4 {
+    margin: 0;
+}
+nav ul li a {
+    text-decoration: none;
+    color: #FFF;
+}
